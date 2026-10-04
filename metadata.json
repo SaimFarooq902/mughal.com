@@ -1,0 +1,8 @@
+{
+  "name": "Mughalstech CNC Hub - Industrial E-Commerce & Real-Time B2B Lead Finder",
+  "description": "Enterprise-grade industrial SaaS & e-commerce web application for CNC Lathe Machines & Precision Engineering featuring an integrated Real-Time B2B Lead Finder Engine and Pin-Protected Admin Portal (1632).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
